@@ -1,5 +1,5 @@
 {
-  "name": "Cygnus",
+  "name": "cygnus",
   "private": true,
   "scripts": {
     "start": "meteor run",
@@ -19,5 +19,6 @@
       "server": "server/main.js"
     },
     "testModule": "tests/main.js"
-  }
+  },
+  "devDependencies": {}
 }
